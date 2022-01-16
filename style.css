@@ -28,8 +28,8 @@ h1{
     height: 70px;
     width: 70px;
     font-size: 55px;
-    background: rgb(253, 3, 191);
-    color: #ccc;
+    background: rgb(247, 169, 227);
+    color: rgba(122, 8, 253, 0.986);
     list-style: none;
     text-align: center;
     border-radius: 5px;
@@ -37,12 +37,12 @@ h1{
 
 #board li:hover, #reset:hover{
     cursor: pointer;
-    background: rgba(122, 8, 253, 0.986);
+    background: rgb(247, 169, 227);
 }
 
 #reset{
     border:0;
-    background: rgb(253, 3, 191);
+    background: rgb(247, 169, 227);
     color:rgba(122, 8, 253, 0.986);
     width: 70%;
     padding: 15px;
